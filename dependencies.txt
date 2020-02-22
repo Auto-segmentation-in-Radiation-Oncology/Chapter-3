@@ -1,0 +1,4 @@
+SimpleITK
+numpy
+pydicom
+scikit-image
